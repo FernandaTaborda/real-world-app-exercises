@@ -74,6 +74,39 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "_kFGZ07Nc",
+      "uuid": "875df99a-7a70-4d9f-86d5-10da6fab951a",
+      "firstName": "Julia",
+      "lastName": "Gomes",
+      "username": "JuliaGG4544",
+      "password": "$2a$10$kpRsApiJongB8jBoZld4jeWzNCdouZygfLoK/TuKFBW5u3f6LAc0C",
+      "balance": 0,
+      "createdAt": "2024-08-29T09:50:50.000Z",
+      "modifiedAt": "2024-08-29T09:50:50.000Z"
+    },
+    {
+      "id": "BcTU4NCf2",
+      "uuid": "c2f6fb60-fbaf-4d65-96ba-9417e20ea51e",
+      "firstName": "Julia",
+      "lastName": "Gomes",
+      "username": "JuliaGG4544",
+      "password": "$2a$10$xVLJM/S3Z8i9TRRQxquGleBw3TC3IB/QErd9qSu7wep5Y9yER8bPq",
+      "balance": 0,
+      "createdAt": "2024-08-29T09:53:31.294Z",
+      "modifiedAt": "2024-08-29T09:53:31.294Z"
+    },
+    {
+      "id": "W9VVSw8jf",
+      "uuid": "0eb28da9-8125-4b5d-a00c-205b2afab30e",
+      "firstName": "Julia",
+      "lastName": "Gomes",
+      "username": "JuliaGG4544",
+      "password": "$2a$10$yTCxmWYKmpFTBaVHcFWXeO/k0PY7SRMBRvZI.uWIeUtpDoN/C.Qfa",
+      "balance": 0,
+      "createdAt": "2024-08-29T13:14:50.873Z",
+      "modifiedAt": "2024-08-29T13:14:50.873Z"
     }
   ],
   "contacts": [
