@@ -1,3 +1,16 @@
+# Cypress Automation Testing with RWA
+The Real World App is a project developed by Cypress, it simulates a bank transfer to demonstrate the real use of Cypress test methods, standards and flows. Through test automation, also using the Cypress tool, this project performs login tests and money transfer between accounts.
+
+The general objective of the automated tests was described by LumesTack, the company where I am taking the "Quality Guardian" course, and the detailed test cases and their automation were developed by me.
+
+## Test cases
+To access the detailed test cases, go to the **casosDeTeste.pdf** file
+
+## Automated Testing
+To access automated tests, go to **cypress/tests/fernandaTabordaTest.cy.spec.js**
+
+---
+
 <p align="center">
   <!-- We use two SVGs here so that this displays correctly
     on Github. This might not look right in other Markdown previewers. -->
