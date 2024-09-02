@@ -6,5 +6,11 @@
     "invalidLogin": {
         "username": "Arvilla_Hegmann",
         "password": "Abc123"
+    },
+    "personalDetails": {
+        "firstName": "Julia",
+        "lastName": "Gomes",
+        "username": "JuliaGG4544",
+        "password": "Abc123"
     }
 }
