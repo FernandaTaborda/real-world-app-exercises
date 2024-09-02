@@ -1,9 +1,10 @@
 {
-    "personalDetails": {
-        "firstName": "Julia",
-        "lastName": "Gomes",
-        "username": "JuliaGG4544",
-        "password": "Abc123",
-        "gender": "Female"
+    "validLogin": {
+        "username": "Arvilla_Hegmann",
+        "password": "s3cret"
+    },
+    "invalidLogin": {
+        "username": "Arvilla_Hegmann",
+        "password": "Abc123"
     }
 }

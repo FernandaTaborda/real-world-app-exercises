@@ -12,9 +12,9 @@ class loginPage {
     acessLoginPage(){
         cy.visit('http://localhost:3000/signin')
     }
-    loginWithAnyUser(username, password){
-        cy.get(this.selectorList().usernameField).type(username)
-        cy.get(this.selectorList().passwordField).type(password)
+    loginWithAnyUser(login){
+        cy.get(this.selectorList().usernameField).type(login.username)
+        cy.get(this.selectorList().passwordField).type(login.password)
         cy.get(this.selectorList().loginButton).click()
     }
     checkLoginSucess(){
