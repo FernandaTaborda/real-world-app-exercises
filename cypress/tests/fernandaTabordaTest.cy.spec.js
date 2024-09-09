@@ -20,7 +20,7 @@ describe('Login', () => {
   })
 })
 
-describe.only('Register', () => {
+describe('Register', () => {
   it('Fill personal details', () => {
     register.acessSignUp()
     register.fillFieldsSignUp(userData.personalDetails)
@@ -51,4 +51,3 @@ describe('Transaction history', () => {
     transfer.viewTransactionHistory()
   })
 })
-
