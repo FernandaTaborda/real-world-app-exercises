@@ -4,7 +4,8 @@ The Real World App is a project developed by Cypress, it simulates a bank transf
 The general objective of the automated tests was described by LumesTack, the company where I am taking the "Quality Guardian" course, and the detailed test cases and their automation were developed by me.
 
 ## Test cases
-To access the detailed test cases, go to the **casosDeTeste.pdf** file
+To access the detailed test cases, click on the link: 
+**[Test cases and Bug report](https://1drv.ms/x/c/c14e25d05b637ac4/EcR6Y1vQJU4ggMEkVAAAAAABhqtwNWV3o8RE8dTTOMac7g?e=cRta3N)** 
 
 ## Automated Testing
 To access automated tests, go to **cypress/tests/fernandaTabordaTest.cy.spec.js**
