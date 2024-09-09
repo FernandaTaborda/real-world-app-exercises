@@ -6,5 +6,21 @@
     "invalidLogin": {
         "username": "Arvilla_Hegmann",
         "password": "Abc123"
+    },
+    "personalDetails": {
+        "firstName": "Julia",
+        "lastName": "Gomes",
+        "username": "JuliaGG4544",
+        "password": "Abc123"
+    },
+    "transferDetails": {
+        "contact": "Darrel",
+        "value": "0",
+        "note": "test transference"
+    },
+    "invalidTransferDetails": {
+        "contact": "Darrel",
+        "value": "0",
+        "note": "test transference"
     }
 }
